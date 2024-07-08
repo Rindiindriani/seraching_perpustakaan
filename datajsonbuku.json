@@ -1,0 +1,122 @@
+[
+    {
+        "judul": "Program komputer",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "005"
+    },
+    {
+        "judul": "Filsafat",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "100"
+    },
+    {
+        "judul": " Sosiologi",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "301"
+    },
+    {
+        "judul": "Hukum",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "340"
+    },
+    {
+        "judul": "Kesehatan",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "610"
+    },
+    {
+        "judul": "Agrobisnis",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "631"
+    },
+    {
+        "judul": "Teknik",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "621"
+    },
+    {
+        "judul": "Peternakan",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "636"
+    },
+    {
+        "judul": "Komputer Pengolahan Data",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "004"
+    },
+    {
+        "judul": "Komunikasi",
+        "lantai": 1,
+        "ruangan": "Koleksi",
+        "rak": "001"
+    },
+    {
+        "judul": "Kamus Sains",
+        "lantai": 2,
+        "ruangan": "Referensi",
+        "rak": "503"
+    },
+    {
+        "judul": "Ensiklopedia",
+        "lantai": 2,
+        "ruangan": "Referensi",
+        "rak": "350"
+    },
+    {
+        "judul": "Olahraga",
+        "lantai": 2,
+        "ruangan": "Referensi",
+        "rak": "796"
+    },
+    {
+        "judul": "Fauna",
+        "lantai": 2,
+        "ruangan": "Referensi",
+        "rak": "590"
+    },
+    {
+        "judul": "Sejarah dan Budaya",
+        "lantai": 2,
+        "ruangan": "Referensi",
+        "rak": "909"
+    },
+    {
+        "judul": "Ilmuan",
+        "lantai": 2,
+        "ruangan": "Referensi",
+        "rak": "912"
+    },
+    {
+        "judul": "Pariwisata dan Perhutanan",
+        "lantai": 2,
+        "ruangan": "Referensi",
+        "rak": "910"
+    },
+    {
+        "judul": "Economics",
+        "lantai": 2,
+        "ruangan": "Bahasa Asing",
+        "rak": "330"
+    },
+    {
+        "judul": "Basic investments",
+        "lantai": 2,
+        "ruangan": "Bahasa Asing",
+        "rak": "332"
+    },
+    {
+        "judul": "Chemistry",
+        "lantai": 2,
+        "ruangan": "Bahasa Asing",
+        "rak": "540"
+    }
+]
